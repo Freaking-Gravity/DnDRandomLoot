@@ -1,0 +1,14 @@
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\bin\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.exe
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\bin\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.deps.json
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\bin\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.runtimeconfig.json
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\bin\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.runtimeconfig.dev.json
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\bin\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.dll
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\bin\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.pdb
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\obj\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.csprojAssemblyReference.cache
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\obj\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.csproj.CoreCompileInputs.cache
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\obj\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.AssemblyInfoInputs.cache
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\obj\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.AssemblyInfo.cs
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\obj\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.dll
+C:\Users\Freaking Gravity\source\repos\DnD_Random_Loot\DnD_Random_Loot\obj\Release\netcoreapp2.1\win-x64\DnD_Random_Loot.pdb

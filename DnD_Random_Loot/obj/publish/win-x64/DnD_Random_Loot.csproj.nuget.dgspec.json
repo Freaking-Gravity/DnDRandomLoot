@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Freaking Gravity\\source\\repos\\DnD_Random_Loot\\DnD_Random_Loot\\DnD_Random_Loot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Freaking Gravity\\source\\repos\\DnD_Random_Loot\\DnD_Random_Loot\\DnD_Random_Loot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Freaking Gravity\\source\\repos\\DnD_Random_Loot\\DnD_Random_Loot\\DnD_Random_Loot.csproj",
+        "projectName": "DnD_Random_Loot",
+        "projectPath": "C:\\Users\\Freaking Gravity\\source\\repos\\DnD_Random_Loot\\DnD_Random_Loot\\DnD_Random_Loot.csproj",
+        "packagesPath": "C:\\Users\\Freaking Gravity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Freaking Gravity\\source\\repos\\DnD_Random_Loot\\DnD_Random_Loot\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Freaking Gravity\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.11, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
